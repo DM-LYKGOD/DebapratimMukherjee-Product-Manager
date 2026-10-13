@@ -43,16 +43,37 @@
 
 ---
 
+## AI & Machine Learning — Hands-On Experience
 
-## AI & Technical Skills
+Built and deployed ML models in production across energy management and industrial IoT:
 
-**🤖 AI / ML** · LangGraph · LangChain · n8n (TypeScript) · OpenAI API · RAG · Fine-tuning · Vector DBs · LangSmith · Random Forest · XGBoost · LSTM
+- **Daily Energy Forecasting Model** — Production model predicting industrial electricity consumption with >90% daily accuracy; served customer-facing recommendations at OAK Insights
+- **Anomaly Detection (DBScan)** — Real-time alerting when consumption patterns deviated from baseline; integrated into customer dashboard workflows
+- **Phytoplankton Density Prediction** — Multivariate time-series forecasting across 58 species using Random Forest, XGBoost, and hybrid ML approaches (M.Sc. thesis; RF R² = 0.678)
+- **LLM Fine-tuning & RAG** — Fine-tuned conversational LLM on proprietary Ayurvedic clinical knowledge base; built RAG pipelines with vector database retrieval for Vedraaj
+- **ML Stack:** Python, scikit-learn, TensorFlow/Keras, XGBoost, Random Forest, LSTM, Prophet, statsmodels, pandas, NumPy
 
-**📊 Data Platforms** · Apache Spark · Kafka · MQTT · PostgreSQL · BigQuery · AWS · GCP
+---
 
-**📋 Product Management** · Strategy & roadmapping · A/B testing · Feature flags · PRD/BRD · User stories · Agile · Discovery · Stakeholder management
+## Technical Skills
 
-**🔌 APIs & Integration** · OpenAPI 3.0 · Webhooks · OAuth2 · ETL pipelines · REST APIs · Schema versioning
+**🤖 AI & ML**
+LangGraph · LangChain · n8n (TypeScript) · OpenAI API · RAG · Fine-tuning · Vector Databases · LangSmith · Random Forest · XGBoost · LSTM · TensorFlow · Keras · Prophet · scikit-learn · pandas · NumPy
+
+**☁️ Cloud & Infrastructure**
+AWS (EC2, S3, Lambda, RDS, CloudWatch) · GCP (Compute Engine, BigQuery) · Kubernetes · Docker · Server Management · Linux Administration · Nginx · Apache
+
+**📊 Data Platforms**
+Apache Spark · Kafka · MQTT · PostgreSQL · BigQuery · dbt · Redshift · Snowflake
+
+**🔌 APIs & Integration**
+OpenAPI 3.0 · REST · GraphQL · Webhooks · OAuth2 · ETL/ELT Pipelines · JSON Transformations · Schema Versioning · Zapier
+
+**📋 PM & Collaboration Tools**
+JIRA · Confluence · Grafana · Datadog · Miro · Figma · Slack · Notion · Git · GitHub · GitLab
+
+**📋 Product Management**
+Product strategy & roadmapping · A/B testing · Feature flags · PRD/BRD authoring · User stories · Agile/Scrum (2-week sprints) · Stakeholder management · Discovery & user research · Sprint planning
 
 ---
 
