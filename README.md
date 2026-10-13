@@ -1,104 +1,114 @@
-<table>
-  <tr>
-    <td valign="top">
-      <h1>Debapratim Mukherjee</h1>
-      <p><strong>Senior Product Manager — B2B SaaS · AI/ML Products · Data Platforms</strong></p>
-      <p>6+ years building and shipping B2B data and AI products end-to-end. I lead cross-functional squads from discovery through launch and scale — with a track record of onboarding enterprise customers, growing revenue, and delivering AI features that achieve strong adoption.</p>
-      <p>+49 155 10411872 · debapratimmukherjee07@gmail.com · Lahr, Germany<br>
-      linkedin.com/in/debapratim-mukherjee · github.com/DM-LYKGOD</p>
-    </td>
-    <td width="220" valign="top" align="right">
-      <img src="assets/profile.jpeg" alt="Debapratim Mukherjee" width="210">
-    </td>
-  </tr>
-</table>
+# Debapratim Mukherjee
+
+**Senior Product Manager — B2B SaaS · AI/ML Products · Data Platforms**
+
+📍 Lahr, Germany · 📞 +49 155 10411872 · 📧 debapratimmukherjee07@gmail.com  
+🔗 linkedin.com/in/debapratim-mukherjee · 🔗 github.com/DM-LYKGOD
+
+---
+
+## About Me
+
+10+ years building and shipping B2B data and AI products end-to-end — from zero to enterprise scale. I lead cross-functional squads across discovery, roadmapping, build, launch, and iteration. Track record of onboarding enterprise customers, growing revenue, and delivering AI features with strong user adoption.
 
 ---
 
 ## Products I Have Built and Launched
 
-| Product | Type | When | Description |
-|---|---|---|---|
-| Automation Toolbox (Nalco/Ecolab) | B2B SaaS · IoT Monitoring | 2014–2018 | Industrial IoT monitoring platform — 100+ engineers, 12,000+ global customer systems, 60,000–100,000 alarms/day processed with >95% customer satisfaction. |
-| OAK Insights | B2B SaaS · Energy Management | 2021–2024 | AI-powered energy management platform — automated telemetry analytics, 15% average customer energy savings. 12 enterprise customers onboarded in 4 months. |
-| OAKy | B2B SaaS · AI Assistant | 2021–2024 | Conversational AI chatbot — natural language to SQL, self-service analytics for enterprise accounts. 78% feature adoption in 6 weeks via staged rollout. |
-| OAK Internal Dashboard | Internal · Diagnostics | 2021–2024 | Internal diagnostic platform — enables operations analysts to investigate sensor anomalies and automate reporting, eliminating 60% of manual effort. |
-| ThoughtSync | B2B SaaS · Integration Platform | 2024–Present | [Enterprise SaaS integration platform](https://thoughtsync.thoughtbins.com/) — 50+ connectors, resilient ETL pipelines, sub-5-min self-serve onboarding. 500+ partners, 2,500+ live API integrations. |
-| Vedraaj | B2C · Health Tech | 2024–Present | [LLM-powered Ayurvedic health platform](https://vedraaj.com/) — clinical knowledge retrieval, GDPR-compliant, 8 languages, launched Aug 2026. |
+| # | Product | Type | Period | Description |
+|---|---|---|---|---|
+| 1 | **Automation Toolbox** (Nalco/Ecolab) | B2B SaaS · IoT | 2014–2018 | Industrial monitoring platform — 100+ engineers, 12,000+ customer systems, 60k–100k alarms/day |
+| 2 | **OAK Insights** | B2B SaaS · Energy | 2021–2024 | AI-powered energy management — 15% customer savings, 12 enterprise customers in 4 months |
+| 3 | **OAKy** | B2B SaaS · AI | 2021–2024 | Conversational AI chatbot — NL to SQL, self-service analytics, 78% adoption in 6 weeks |
+| 4 | **OAK Internal Dashboard** | Internal | 2021–2024 | Diagnostic platform — sensor anomaly investigation, 60% manual effort eliminated |
+| 5 | **[ThoughtSync](https://thoughtsync.thoughtbins.com/)** | B2B SaaS · Integration | 2024–Present | 50+ SaaS connectors, self-serve onboarding in <5 min, 500+ partners, 2,500+ API integrations |
+| 6 | **[Vedraaj](https://vedraaj.com/)** | B2C · Health Tech | 2024–Present | LLM Ayurvedic health platform — clinical RAG, GDPR, 8 languages |
 
 ---
 
 ## Key Achievements
 
-- Revenue growth: Scaled revenue 10x (USD 110k → 1.1M) at Thoughtbins within 10 months
-- Enterprise onboarding: 12 enterprise customers in 4 months at OAK; EUR 100k partnership closed with Olive Hometex GmbH
-- Integration velocity: Reduced SaaS onboarding from 7 days → under 5 minutes via self-serve connectors
-- AI product adoption: 78% feature adoption within 6 weeks via staged feature-flag rollout
-- NPS uplift: Improved from 32 → 58 (n=48) through continuous user feedback loops
-- Operational efficiency: Eliminated 60% of manual reporting effort, saving 3+ hours/week for ops teams
-- Data quality: >98% pipeline completeness and schema conformance across distributed ETL
-- Pipeline uptime: 99.9% across Kafka/MQTT streaming pipelines processing millions of events daily
-- AI model accuracy: Daily energy-consumption forecasting model held >90% accuracy in production
-- Feature launch velocity: Shipped 3 major product releases on schedule, embedded with engineering squads
+| Impact Area | Achievement |
+|---|---|
+| 💰 Revenue | Scaled USD 110k → 1.1M (10x) at Thoughtbins in 10 months |
+| 🏢 Enterprise Sales | 12 enterprise customers in 4 months at OAK; EUR 100k partnership closed |
+| ⚡ Integration Speed | SaaS onboarding: 7 days → under 5 minutes via self-serve connectors |
+| 📈 AI Adoption | 78% feature adoption in 6 weeks via staged feature-flag rollout |
+| 💬 NPS | 32 → 58 (n=48) through continuous user feedback loops |
+| 🔧 Operational Efficiency | 60% manual reporting effort eliminated, saving 3+ hrs/week |
+| ✅ Data Quality | >98% pipeline completeness and schema conformance |
+| 🏗️ Reliability | 99.9% uptime on Kafka/MQTT pipelines, millions of events/day |
+| 🤖 AI Accuracy | >90% daily accuracy on energy consumption forecasting model |
+| 🚀 Launch Velocity | 3 major product releases shipped on schedule, embedded with engineering |
 
 ---
 
 ## Work Experience
 
-**Project Lead IT — Thoughtbins Technologies** (Dec 2024–Present)
-- Led cross-functional IT delivery squad of 10+ developers, ML engineers, UI/UX, and QA across two-week agile sprints
-- Directed full lifecycle IT project delivery across client platforms, scaling revenue 10-fold to USD 1.1M in 10 months
-- Built and shipped [ThoughtSync integration platform](https://thoughtsync.thoughtbins.com/) — 50+ SaaS connectors, 2,500+ live API integrations, self-serve onboarding
-- Managed Olive Hometex GmbH e-commerce platform (EUR 100k partnership) integrated with ThoughtSync
-- Shipped [Vedraaj AI healthcare assistant](https://vedraaj.com/) — LLM clinical retrieval, GDPR compliance, 8-language support
+### Project Lead IT — Thoughtbins Technologies
+**Dec 2024 – Present** · India
 
-**Head of Product → CTO — The OAK Network, London** (Jul 2021–Nov 2024)
-- Promoted from Product Management Intern to Head of Product within 3 months; assumed CTO responsibilities
+- Led cross-functional IT delivery squad of 10+ (developers, ML engineers, UI/UX, QA) across two-week agile sprints
+- Scaled revenue 10x to USD 1.1M in 10 months across client IT project delivery
+- Built and shipped [ThoughtSync](https://thoughtsync.thoughtbins.com/) — 50+ SaaS connectors, 2,500+ live API integrations, sub-5-min self-serve onboarding
+- Managed Olive Hometex GmbH e-commerce platform (EUR 100k partnership)
+- Shipped [Vedraaj](https://vedraaj.com/) — LLM clinical retrieval, GDPR compliance, 8-language support
+
+### Head of Product → CTO — The OAK Network
+**Jul 2021 – Nov 2024** · London, UK
+
+- Promoted from Product Management Intern → Head of Product in 3 months; assumed CTO responsibilities
 - Owned B2B SaaS platform end-to-end: discovery, PRD, user stories, spec, build, QA, launch, iteration
-- Onboarded 12 enterprise customers within 4 months; improved NPS from 32 to 58 (n=48)
-- Shipped OAKy AI chatbot (LLM SQL generation) and OAK Insights energy platform (15% customer energy savings)
-- Built automated reporting and diagnostic tools eliminating 60% of manual ops effort
-- Led team of 10: 3 PMs/business analysts, 3 data analysts, 4 developers
-- Ran A/B tests on multiple features; achieved 78% feature adoption within 6 weeks via staged rollout
+- Onboarded 12 enterprise customers within 4 months; improved NPS from 32 → 58 (n=48)
+- Shipped OAKy AI chatbot (LLM SQL generation) and OAK Insights energy platform (15% customer savings)
+- Eliminated 60% of manual ops effort through automated reporting and diagnostic tools
+- Led team of 10 (3 PMs/analysts, 3 data analysts, 4 developers)
+- Ran A/B tests; achieved 78% feature adoption in 6 weeks via staged rollout
 
-**Student Research Assistant — Forschungszentrum Julich (ICE-2)** (Apr 2025–Mar 2026)
+### Student Research Assistant — Forschungszentrum Jülich (ICE-2)
+**Apr 2025 – Mar 2026** · Germany
+
 - Energy-system modelling and optimisation for cement-industry decarbonisation (IT2050 project)
-- Contributed to Helmholtz Energy publication "Der Wandel der deutschen Zementindustrie" (2025)
+- Contributed to Helmholtz Energy publication: *"Der Wandel der deutschen Zementindustrie"* (2025)
+- PyPSA, FINE framework (Pyomo/HiGHS), ETHOS.HiSim, Python, MGA analysis
 
-**Application Engineer — Nalco Water (Ecolab), India** (Apr 2014–Oct 2018)
-- Contributed to Automation Toolbox — in-house IoT monitoring platform used by 100+ engineers across 12,000+ customer systems
-- Improved alarm-management workflow processing 60,000–100,000 alarms/day with 90% manual effort reduction
+### Application Engineer — Nalco Water (Ecolab)
+**Apr 2014 – Oct 2018** · Pune & Goa, India
+
+- Contributed to Automation Toolbox — IoT monitoring platform for 100+ engineers across 12,000+ customer systems
+- Improved alarm-management workflow: 60,000–100,000 alarms/day, 90% manual effort reduction
 - Maintained >95% customer satisfaction across SLA-driven operational environment
 
 ---
 
 ## AI & Technical Skills
 
-**AI / ML:** LangGraph, LangChain, n8n (TypeScript), OpenAI API, RAG, fine-tuning, vector databases, LangSmith, Random Forest, XGBoost, LSTM
+**🤖 AI / ML** · LangGraph · LangChain · n8n (TypeScript) · OpenAI API · RAG · Fine-tuning · Vector DBs · LangSmith · Random Forest · XGBoost · LSTM
 
-**Data Platforms:** Apache Spark, Kafka, MQTT, PostgreSQL, BigQuery, AWS, GCP
+**📊 Data Platforms** · Apache Spark · Kafka · MQTT · PostgreSQL · BigQuery · AWS · GCP
 
-**Product Management:** Product strategy, roadmapping, A/B testing, feature flags, PRD/BRD, user stories, agile sprints, discovery, stakeholder management
+**📋 Product Management** · Strategy & roadmapping · A/B testing · Feature flags · PRD/BRD · User stories · Agile · Discovery · Stakeholder management
 
-**APIs & Integration:** OpenAPI 3.0, webhooks, OAuth2, ETL pipelines, REST APIs, schema versioning
+**🔌 APIs & Integration** · OpenAPI 3.0 · Webhooks · OAuth2 · ETL pipelines · REST APIs · Schema versioning
 
 ---
 
 ## Education
 
-- M.Sc. Environmental Science — RPTU Kaiserslautern-Landau (2023–2026) — Specialisation: Data Analytics & Economics
-- MBA — EBS Universitat fur Wirtschaft und Recht (2020–2021) — Thesis: Digital transformation at Stadtwerke Dusseldorf
-- B.Tech Chemical Engineering — Heritage Institute of Technology (2009–2013) — DGPA: 8.39/10
+| Degree | Institution | Year |
+|---|---|---|
+| M.Sc. Environmental Science (Data Analytics & Economics) | RPTU Kaiserslautern-Landau | 2023–2026 |
+| MBA (Digital Transformation) | EBS Universität für Wirtschaft und Recht | 2020–2021 |
+| B.Tech Chemical Engineering · DGPA: 8.39/10 | Heritage Institute of Technology | 2009–2013 |
 
 ---
 
 ## Certifications
 
-- PMP — Project Management Institute (PMI, Credential ID: 3244885)
+- 🏆 **PMP** — Project Management Institute (PMI) · Credential ID: 3244885
 
 ---
 
 ## Links
 
-Portfolio: https://github.com/DM-LYKGOD/Projects_DM
-LinkedIn: https://www.linkedin.com/in/debapratim-mukherjee
+📂 [Portfolio / Projects](https://github.com/DM-LYKGOD/Projects_DM) · 💼 [LinkedIn](https://www.linkedin.com/in/debapratim-mukherjee)
