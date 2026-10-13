@@ -43,43 +43,6 @@
 
 ---
 
-## Work Experience
-
-### Project Lead IT — Thoughtbins Technologies
-**Dec 2024 – Present** · India
-
-- Led cross-functional IT delivery squad of 10+ (developers, ML engineers, UI/UX, QA) across two-week agile sprints
-- Scaled revenue 10x to USD 1.1M in 10 months across client IT project delivery
-- Built and shipped [ThoughtSync](https://thoughtsync.thoughtbins.com/) — 50+ SaaS connectors, 2,500+ live API integrations, sub-5-min self-serve onboarding
-- Managed Olive Hometex GmbH e-commerce platform (EUR 100k partnership)
-- Shipped [Vedraaj](https://vedraaj.com/) — LLM clinical retrieval, GDPR compliance, 8-language support
-
-### Head of Product → CTO — The OAK Network
-**Jul 2021 – Nov 2024** · London, UK
-
-- Promoted from Product Management Intern → Head of Product in 3 months; assumed CTO responsibilities
-- Owned B2B SaaS platform end-to-end: discovery, PRD, user stories, spec, build, QA, launch, iteration
-- Onboarded 12 enterprise customers within 4 months; improved NPS from 32 → 58 (n=48)
-- Shipped OAKy AI chatbot (LLM SQL generation) and OAK Insights energy platform (15% customer savings)
-- Eliminated 60% of manual ops effort through automated reporting and diagnostic tools
-- Led team of 10 (3 PMs/analysts, 3 data analysts, 4 developers)
-- Ran A/B tests; achieved 78% feature adoption in 6 weeks via staged rollout
-
-### Student Research Assistant — Forschungszentrum Jülich (ICE-2)
-**Apr 2025 – Mar 2026** · Germany
-
-- Energy-system modelling and optimisation for cement-industry decarbonisation (IT2050 project)
-- Contributed to Helmholtz Energy publication: *"Der Wandel der deutschen Zementindustrie"* (2025)
-- PyPSA, FINE framework (Pyomo/HiGHS), ETHOS.HiSim, Python, MGA analysis
-
-### Application Engineer — Nalco Water (Ecolab)
-**Apr 2014 – Oct 2018** · Pune & Goa, India
-
-- Contributed to Automation Toolbox — IoT monitoring platform for 100+ engineers across 12,000+ customer systems
-- Improved alarm-management workflow: 60,000–100,000 alarms/day, 90% manual effort reduction
-- Maintained >95% customer satisfaction across SLA-driven operational environment
-
----
 
 ## AI & Technical Skills
 
