@@ -9,7 +9,9 @@
 
 ## About Me
 
-10+ years building and shipping B2B data and AI products end-to-end — from zero to enterprise scale. I lead cross-functional squads across discovery, roadmapping, build, launch, and iteration. I also build side projects — [Process Automation Finder](https://github.com/DM-LYKGOD/Process-Automation-Finder) (AI-driven process analysis) and [Find Your Balance](https://github.com/DM-LYKGOD/Find-your-balance) (wellness tracking). Track record of onboarding enterprise customers, growing revenue, and delivering AI features with strong user adoption.
+10+ years building and shipping B2B data and AI products end-to-end — from zero to enterprise scale. I lead cross-functional squads across discovery, roadmapping, build, launch, and iteration. Track record of onboarding enterprise customers, growing revenue, and delivering AI features with strong user adoption.
+
+I also build side projects — [Process Automation Finder](https://github.com/DM-LYKGOD/Process-Automation-Finder) (AI-driven process analysis) and [Find Your Balance](https://github.com/DM-LYKGOD/Find-your-balance) (wellness tracking). Feedback is always welcome.
 
 ---
 
