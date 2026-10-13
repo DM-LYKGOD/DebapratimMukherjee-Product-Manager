@@ -94,26 +94,24 @@ Led cross-functional squads of 10+ (developers, ML engineers, UI/UX, QA, data an
 
 ## Technical Skills
 
-### 🤖 AI & Machine Learning — Hands-On
-Built and deployed ML models in production:
+### Hands-On Production ML Experience
 
-- **Daily Energy Forecasting Model** — Production model with **>90% daily accuracy**; served customer-facing recommendations at OAK Insights
-- **Anomaly Detection (DBScan)** — Real-time alerting for abnormal consumption patterns; integrated into customer dashboard workflows
-- **LLM Fine-tuning & RAG** — Fine-tuned LLM on proprietary Ayurvedic clinical knowledge base; built RAG pipelines with vector DB retrieval for Vedraaj
+| Solution / Model | Architecture & Stack | Production Impact & Metrics |
+|---|---|---|
+| **Daily Energy Forecasting** | Time-series forecasting (LSTM, Prophet, XGBoost, scikit-learn, Python) | **>90% daily accuracy** in production; powered automated energy-saving recommendations at OAK Insights |
+| **Real-Time Anomaly Detection** | DBScan clustering, unsupervised telemetry modeling | Real-time automated alerting for abnormal industrial consumption patterns across customer sites |
+| **LLM RAG Clinical Assistant** | Fine-tuned LLM, LangGraph, LangChain, Vector DBs, LangSmith | Proprietary clinical retrieval, GDPR-compliant, multilingual (8 languages) for Vedraaj |
 
-**Stack:** Python · scikit-learn · TensorFlow · Keras · XGBoost · Random Forest · LSTM · LangGraph · LangChain · LangSmith · OpenAI API · RAG · Vector DBs
+### Technical & Tooling Matrix
 
-### ☁️ Cloud & Infrastructure
-AWS (EC2, S3, Lambda, RDS, CloudWatch) · GCP (Compute Engine, BigQuery) · Kubernetes · Docker · Server Management · Linux Administration · Nginx
-
-### 📊 Data Platforms & Pipelines
-Apache Spark · Kafka · MQTT · PostgreSQL · BigQuery · dbt · Redshift · Snowflake · ETL/ELT Pipelines
-
-### 🔌 APIs & Integration
-OpenAPI 3.0 · REST · GraphQL · Webhooks · OAuth2 · JSON Transformations · Schema Versioning
-
-### 📋 PM & Collaboration Tools
-JIRA · Confluence · Grafana · Datadog · Miro · Figma · Slack · Notion · Git · GitHub
+| Domain | Technologies & Stack | PM & Engineering Competencies |
+|---|---|---|
+| **🤖 AI & Machine Learning** | Python, scikit-learn, TensorFlow, Keras, XGBoost, Random Forest, LSTM, LangGraph, LangChain, LangSmith | RAG architectures, LLM fine-tuning, vector databases, prompt evaluation, agentic workflows |
+| **☁️ Cloud & Infrastructure** | AWS (EC2, S3, Lambda, RDS, CloudWatch), GCP (Compute Engine, BigQuery), Kubernetes, Docker | Container orchestration, Linux administration, server management, Nginx |
+| **📊 Data Platforms & Pipelines** | Apache Spark, Kafka, MQTT, PostgreSQL, BigQuery, dbt, Redshift, Snowflake | Real-time event streaming, distributed processing, ETL/ELT data pipelines, schema design |
+| **🔌 APIs & System Integration** | OpenAPI 3.0, REST, GraphQL, Webhooks, OAuth2, JSON transformations | API specifications, schema versioning, retry policies, connector hardening, Zapier |
+| **📈 Observability & Monitoring** | Grafana, Datadog, AWS CloudWatch, telemetry dashboards | Operational uptime tracking, latency monitoring, alert routing, SLA reporting |
+| **📋 PM & Agile Collaboration** | JIRA, Confluence, Figma, Miro, Notion, Slack, Git, GitHub | Backlog grooming, 2-week sprint planning, user journey mapping, PRD/BRD authoring |
 
 ---
 
