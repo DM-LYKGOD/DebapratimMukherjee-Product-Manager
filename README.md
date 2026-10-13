@@ -9,7 +9,7 @@
 
 ## About Me
 
-PMP certified Product Builder with 10+ years building and shipping B2B data and AI products end-to-end — from zero to enterprise scale. I lead cross-functional squads across discovery, roadmapping, build, launch, and iteration. Track record of onboarding enterprise customers, growing revenue, and delivering AI features with strong user adoption.
+PMP certified Product Builder with 10+ years building and shipping B2B data and AI products end-to-end — from zero to enterprise scale. Experienced partnering directly with CTOs and executive leadership to translate complex data and AI architectures into clear commercial value, intuitive products, and cross-functional alignment. Track record of onboarding enterprise customers, growing revenue, and delivering AI features with strong user adoption.
 
 I also build side projects — [Process Automation Finder](https://github.com/DM-LYKGOD/Process-Automation-Finder) (AI-driven process analysis) and [Find Your Balance](https://github.com/DM-LYKGOD/Find-your-balance) (wellness tracking). Feedback is always welcome.
 
@@ -42,6 +42,7 @@ I also build side projects — [Process Automation Finder](https://github.com/DM
 | 🏗️ Reliability | 99.9% uptime on Kafka/MQTT pipelines, millions of events/day |
 | 🤖 AI Accuracy | >90% daily accuracy on energy consumption forecasting model |
 | 🚀 Launch Velocity | 3 major product releases shipped on schedule, embedded with engineering |
+| 🤝 Executive & Leadership | Reported directly to CTO; promoted to Head of Product in 3 months; mentored cross-functional squads |
 
 ---
 
@@ -87,8 +88,16 @@ Established and tracked core product metrics (adoption rate, DAU/MAU, NPS, CSAT,
 ### Cross-Functional Squad Leadership
 Led cross-functional squads of 10+ (developers, ML engineers, UI/UX, QA, data analysts). Coordinated with sales, customer success, and external partners to deliver on time.
 
-- Led squad of **10+** across two companies; mentored junior PMs and analysts
+- Led squad of **10+** across two companies; mentored junior PMs, data analysts, and engineering leads
 - Coordinated **EUR 100k partnership** delivery with external German client
+
+### Executive Alignment & Technical Translation
+Served as the primary strategic and communication bridge between deep engineering squads, C-suite leadership, and non-technical enterprise stakeholders.
+
+- **Direct Report to CTO & Promotion Velocity:** Joined OAK as Product Management Intern reporting directly to the CTO; promoted to **Head of Product within 3 months** and later stepped up to assume CTO responsibilities.
+- **Translating Deep Tech into Plain Language:** Translated complex streaming data pipelines (Kafka, MQTT), ML forecasting algorithms, and IoT telemetry into intuitive user workflows, clear business cases, and measurable ROI (e.g. converting raw sensor models into a 15% customer energy cost reduction).
+- **Democratising Data for Non-Technical Users:** Conceived and launched OAKy specifically to enable non-technical business users to run complex database queries via natural language chat, achieving **78% feature adoption in 6 weeks**.
+- **Mentorship & Consensus Building:** Facilitated executive buy-in across commercial sales, technical leads, and operations, defending roadmap trade-offs with data while mentoring junior PMs on discovery and delivery.
 
 ---
 
