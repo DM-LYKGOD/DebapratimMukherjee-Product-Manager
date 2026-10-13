@@ -132,5 +132,4 @@ JIRA · Confluence · Grafana · Datadog · Miro · Figma · Slack · Notion · 
 ---
 
 ## Links
-
-📂 [Portfolio / Projects](https://github.com/DM-LYKGOD/Projects_DM) · 💼 [LinkedIn](https://www.linkedin.com/in/debapratim-mukherjee)
+💼 [LinkedIn](https://www.linkedin.com/in/debapratim-mukherjee) | 
