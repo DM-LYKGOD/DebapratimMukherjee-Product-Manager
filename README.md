@@ -43,37 +43,75 @@
 
 ---
 
-## AI & Machine Learning — Hands-On Experience
+## Product Management Experience
 
-Built and deployed ML models in production across energy management and industrial IoT:
+### End-to-End SaaS Platform Ownership
+Owned B2B SaaS products from discovery through to launch and iteration — wrote PRDs, user stories, and acceptance criteria; aligned engineering squads; managed backlogs and sprint priorities; shipped on schedule across 2-week agile cycles.
 
-- **Daily Energy Forecasting Model** — Production model predicting industrial electricity consumption with >90% daily accuracy; served customer-facing recommendations at OAK Insights
-- **Anomaly Detection (DBScan)** — Real-time alerting when consumption patterns deviated from baseline; integrated into customer dashboard workflows
-- **Phytoplankton Density Prediction** — Multivariate time-series forecasting across 58 species using Random Forest, XGBoost, and hybrid ML approaches (M.Sc. thesis; RF R² = 0.678)
-- **LLM Fine-tuning & RAG** — Fine-tuned conversational LLM on proprietary Ayurvedic clinical knowledge base; built RAG pipelines with vector database retrieval for Vedraaj
-- **ML Stack:** Python, scikit-learn, TensorFlow/Keras, XGBoost, Random Forest, LSTM, Prophet, statsmodels, pandas, NumPy
+- **12 enterprise customers onboarded in 4 months** at OAK
+- **3 major releases shipped** on schedule, embedded with engineering squads
+- **EUR 100k partnership** managed end-to-end (Olive Hometex GmbH)
+
+### Product Strategy & Roadmapping
+Defined product vision, strategy, and quarterly roadmap aligned with customer retention and revenue goals. Prioritised features based on customer impact, effort, and strategic fit.
+
+- Increased NPS from **32 → 58** (n=48) through roadmap decisions driven by weekly customer discovery calls
+- Identified and shipped multi-site monitoring feature after structured user feedback analysis → **78% feature adoption in 6 weeks**
+
+### User Research & Discovery
+Conducted weekly discovery calls with users and support teams to define core KPIs and translate insights into roadmap priorities. Ran structured user feedback sessions to inform A/B test variants.
+
+- Ran **A/B tests** on multiple OAK Insights features (e.g. multi-site monitoring UI)
+- Validated feature direction through customer interviews before sprint commitment
+
+### Feature Flag & Staged Rollouts
+Designed and executed staged feature rollouts — internal dogfooding → pilot cohort → progressive enablement — measuring adoption and engagement at each phase.
+
+- **78% feature adoption in 6 weeks** via staged rollout of OAKy AI chatbot
+- Reduced risk of broad releases through data-driven phase gates
+
+### API & Platform Product Management
+Managed products with significant API surfaces (ThoughtSync: 50+ connectors, 2,500+ integrations; OAK: customer-facing forecasting API). Defined API contracts, schema versioning strategies, and developer experience.
+
+- **2,500+ live API integrations** on ThoughtSync platform
+- Reduced integration onboarding from **7 days → under 5 minutes** via self-serve connector design
+
+### Data-Driven Product Decisions
+Established and tracked core product metrics (adoption rate, DAU/MAU, NPS, CSAT, pipeline uptime, data quality). Used metrics to drive prioritisation and communicate to stakeholders.
+
+- Maintained **>98% data quality** and **99.9% pipeline uptime** across all products
+- Tracked SLA compliance **>95%** against agreed stakeholder targets
+
+### Cross-Functional Squad Leadership
+Led cross-functional squads of 10+ (developers, ML engineers, UI/UX, QA, data analysts). Coordinated with sales, customer success, and external partners to deliver on time.
+
+- Led squad of **10+** across two companies; mentored junior PMs and analysts
+- Coordinated **EUR 100k partnership** delivery with external German client
 
 ---
 
 ## Technical Skills
 
-**🤖 AI & ML**
-LangGraph · LangChain · n8n (TypeScript) · OpenAI API · RAG · Fine-tuning · Vector Databases · LangSmith · Random Forest · XGBoost · LSTM · TensorFlow · Keras · Prophet · scikit-learn · pandas · NumPy
+### 🤖 AI & Machine Learning — Hands-On
+Built and deployed ML models in production:
 
-**☁️ Cloud & Infrastructure**
-AWS (EC2, S3, Lambda, RDS, CloudWatch) · GCP (Compute Engine, BigQuery) · Kubernetes · Docker · Server Management · Linux Administration · Nginx · Apache
+- **Daily Energy Forecasting Model** — Production model with **>90% daily accuracy**; served customer-facing recommendations at OAK Insights
+- **Anomaly Detection (DBScan)** — Real-time alerting for abnormal consumption patterns; integrated into customer dashboard workflows
+- **LLM Fine-tuning & RAG** — Fine-tuned LLM on proprietary Ayurvedic clinical knowledge base; built RAG pipelines with vector DB retrieval for Vedraaj
 
-**📊 Data Platforms**
-Apache Spark · Kafka · MQTT · PostgreSQL · BigQuery · dbt · Redshift · Snowflake
+**Stack:** Python · scikit-learn · TensorFlow · Keras · XGBoost · Random Forest · LSTM · LangGraph · LangChain · LangSmith · OpenAI API · RAG · Vector DBs
 
-**🔌 APIs & Integration**
-OpenAPI 3.0 · REST · GraphQL · Webhooks · OAuth2 · ETL/ELT Pipelines · JSON Transformations · Schema Versioning · Zapier
+### ☁️ Cloud & Infrastructure
+AWS (EC2, S3, Lambda, RDS, CloudWatch) · GCP (Compute Engine, BigQuery) · Kubernetes · Docker · Server Management · Linux Administration · Nginx
 
-**📋 PM & Collaboration Tools**
-JIRA · Confluence · Grafana · Datadog · Miro · Figma · Slack · Notion · Git · GitHub · GitLab
+### 📊 Data Platforms & Pipelines
+Apache Spark · Kafka · MQTT · PostgreSQL · BigQuery · dbt · Redshift · Snowflake · ETL/ELT Pipelines
 
-**📋 Product Management**
-Product strategy & roadmapping · A/B testing · Feature flags · PRD/BRD authoring · User stories · Agile/Scrum (2-week sprints) · Stakeholder management · Discovery & user research · Sprint planning
+### 🔌 APIs & Integration
+OpenAPI 3.0 · REST · GraphQL · Webhooks · OAuth2 · JSON Transformations · Schema Versioning
+
+### 📋 PM & Collaboration Tools
+JIRA · Confluence · Grafana · Datadog · Miro · Figma · Slack · Notion · Git · GitHub
 
 ---
 
