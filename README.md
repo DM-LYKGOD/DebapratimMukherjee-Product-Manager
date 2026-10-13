@@ -131,5 +131,13 @@ JIRA · Confluence · Grafana · Datadog · Miro · Figma · Slack · Notion · 
 
 ---
 
+## Side Projects
+
+**[Process Automation Finder](https://github.com/DM-LYKGOD/Process-Automation-Finder)**
+AI-powered tool that analyses job descriptions to identify repetitive and automatable business processes, helping teams uncover automation opportunities with LLM-based task extraction and classification.
+
+**[Find Your Balance](https://github.com/DM-LYKGOD/Find-your-balance)**
+Wellness and lifestyle platform that helps users track and optimise their daily routines, leveraging personal data insights to promote sustainable health habits.
+
 ## Links
 💼 [LinkedIn](https://www.linkedin.com/in/debapratim-mukherjee) | 
