@@ -11,7 +11,7 @@
 
 PMP certified Product Builder with 10+ years building and shipping B2B data and AI products end-to-end — from zero to enterprise scale. Experienced partnering directly with CTOs and executive leadership to translate complex data and AI architectures into clear commercial value, intuitive products, and cross-functional alignment. Track record of onboarding enterprise customers, growing revenue, and delivering AI features with strong user adoption.
 
-I also build side projects — [Process Automation Finder](https://github.com/DM-LYKGOD/Process-Automation-Finder) (AI-driven process analysis) and [Find Your Balance](https://github.com/DM-LYKGOD/Find-your-balance) (wellness tracking). Feedback is always welcome.
+I also build side projects across AI workflow automation, enterprise tooling prototypes, and wellness — including [Process Automation Finder](https://github.com/DM-LYKGOD/Process-Automation-Finder), [AI Proposal Generator](https://github.com/DM-LYKGOD/Ai-Proposal-Generator), [Business Management Portal](https://github.com/DM-LYKGOD/Prototype--Business-Management-Portal), and [Find Your Balance](https://github.com/DM-LYKGOD/Find-your-balance). Feedback is always welcome.
 
 ---
 
@@ -142,10 +142,16 @@ Served as the primary strategic and communication bridge between deep engineerin
 
 ## Side Projects
 
-**[Process Automation Finder](https://github.com/DM-LYKGOD/Process-Automation-Finder)**
+**[AI Proposal Generator](https://github.com/DM-LYKGOD/Ai-Proposal-Generator)**  
+Techno-commercial sales proposal studio engineered for enterprise sales squads to draft, customize, and export print-ready client proposals with AI-assisted drafting, structured section architecture, and enterprise branding.
+
+**[Business Management Portal Prototype](https://github.com/DM-LYKGOD/Prototype--Business-Management-Portal)**  
+Centralized enterprise operations and workforce intelligence prototype (built with React 19 and TypeScript) engineered to streamline multi-facility workforce data, equipment maintenance, and administrative visibility across distributed locations.
+
+**[Process Automation Finder](https://github.com/DM-LYKGOD/Process-Automation-Finder)**  
 AI-powered tool that analyses job descriptions to identify repetitive and automatable business processes, helping teams uncover automation opportunities with LLM-based task extraction and classification.
 
-**[Find Your Balance](https://github.com/DM-LYKGOD/Find-your-balance)**
+**[Find Your Balance](https://github.com/DM-LYKGOD/Find-your-balance)**  
 Wellness and lifestyle platform that helps users track and optimise their daily routines, leveraging personal data insights to promote sustainable health habits.
 
 ## Links
