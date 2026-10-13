@@ -13,7 +13,7 @@
 
 ---
 
-## Products I Have Built and Launched
+## Products I Have Built, Managed and Launched
 
 | # | Product | Type | Period | Description |
 |---|---|---|---|---|
