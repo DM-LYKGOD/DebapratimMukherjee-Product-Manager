@@ -119,7 +119,7 @@ JIRA · Confluence · Grafana · Datadog · Miro · Figma · Slack · Notion · 
 
 | Degree | Institution | Year |
 |---|---|---|
-| M.Sc. Environmental Science (Data Analytics & Economics) | RPTU Kaiserslautern-Landau | 2023–2026 |
+| M.Sc. Environmental Science (Data Analytics & Modeling) | RPTU Kaiserslautern-Landau | 2023–2026 |
 | MBA (Digital Transformation) | EBS Universität für Wirtschaft und Recht | 2020–2021 |
 | B.Tech Chemical Engineering · DGPA: 8.39/10 | Heritage Institute of Technology | 2009–2013 |
 
